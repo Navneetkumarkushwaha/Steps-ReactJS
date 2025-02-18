@@ -1,4 +1,4 @@
-🚀 Steps Application
+🚀 Steps Application Link :- https://luminous-crepe-cbbc08.netlify.app/
 
 📌 Overview
 
@@ -26,7 +26,7 @@
 
 📥 Installation 🛠️
 
-📦 Clone the repository
+📦 Clone the repository : https://github.com/Navneetkumarkushwaha/Steps-ReactJS.git
 
 📂 Navigate to the project directory:
 
